@@ -1,2 +1,2 @@
 # dotFiles
-setting files
+settings files
